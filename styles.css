@@ -9,6 +9,11 @@ h1 {
 h2 {
    color:rgb(52, 202, 152); background-color:burlywood;
    font-family:'Times New Roman', Times, serif
+}
+
+nav {background-color: rgb(64, 204, 209);}
+
+nav:hover {background-color:aquamarine}
 
 nav {background-color: rgb(201, 145, 77);
     div{ 
@@ -17,5 +22,21 @@ nav {background-color: rgb(201, 145, 77);
         padding:50px;
         background-color: beige;
         border-radius:25px;
+    }
+}
+
+img { background-color: bisque;
+    div{ 
+     border:1px bisque;
+     margin: 30px;
+     padding:50px
+    }
+}
+
+iframe {background-color:bisque;
+    div{ 
+        border:1px beige;
+        margin: 30px;
+        padding: 50px
     }
 }

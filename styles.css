@@ -17,26 +17,22 @@ nav:hover {background-color:aquamarine}
 
 nav {background-color: rgb(76, 192, 207);
     div{ 
-        border:1px beige;
+        border:1px rgb(143, 167, 204);
         margin: 30px;
         padding:50px;
-        background-color: beige;
+        background-color: rgb(202, 230, 248);
         border-radius:25px;
     }
 }
 
-img { background-color: bisque;
-    div{ 
-     border:1px bisque;
-     margin: 30px;
-     padding:50px;
-     border-radius:25px
+img  {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color:rgb(51, 201, 151)
     }
-}
-
-iframe {background-color:bisque;
+iframe {background-color:rgb(196, 241, 255);
     div{ 
-        border:1px beige;
+        border:1px rgb(220, 243, 245);
         margin: 30px;
         padding: 50px;
         border-radius:25px
